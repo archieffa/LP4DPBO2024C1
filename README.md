@@ -55,8 +55,9 @@ Program ini menggunakan lima kelas yaitu:
     
     Kelas ini mengcomposite Class Car dan Class Motorcycle. Kelas ini memiliki empat atribut, yaitu:
     
-    - jenisMotor: menyimpan jenis motor dalam bentuk string
-    - kapasitasTangki: menyimpan kapasitas tangki dalam bentuk string
+    - namaParkingLot: menyimpan nama tempat parkir dalam bentuk string
+    - kapasitas: menyimpan kapasitas dalam bentuk string
+    - jumlahKendaraanSaatIni: menyimpan jumlah kendaraan yang terparkir saat ini dalam bentuk string
     - car: menyimpan array data mobil dalam bentuk list atau vector.
     - motorcycle: menyimpan array data motor dalam bentuk list atau vector.
 
