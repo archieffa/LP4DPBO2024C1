@@ -72,6 +72,6 @@ Pada program Main, inputan datanya berupa hardcode. Pertama adalah menambahkan l
 ![garasi](https://github.com/archieffa/LP4DPBO2024C1/assets/121290445/4aeb8394-5b8d-4e02-86b1-a15c3b326aea)
 ![tempatParkir](https://github.com/archieffa/LP4DPBO2024C1/assets/121290445/ebd59206-b9fb-4a00-a518-784ca91dd2cd)
 
-## c++
+## C++
 ![garasi](https://github.com/archieffa/LP4DPBO2024C1/assets/121290445/3811263e-f6e0-4114-8ef9-9b714e4c03ea)
 ![tempatParkir](https://github.com/archieffa/LP4DPBO2024C1/assets/121290445/a1e3d492-a77c-45d4-9da5-941280951c60)
